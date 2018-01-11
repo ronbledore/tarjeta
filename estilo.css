@@ -6,9 +6,6 @@ body{
 #fondo{
 		width: 100%;
 	height: 1349px;
-	border-left: 1px solid black;
-	border-bottom:1px solid black;
-	border-right: 1px solid black;
 	z-index: -1;
 	position: absolute;
 
